@@ -42,6 +42,7 @@ label + .radio-wrapper {
         
         & .radio-image {
             background-image: url(../../assets/icons/radio-hover.svg);
+            background-repeat: no-repeat;
         }
     }
 
@@ -50,6 +51,8 @@ label + .radio-wrapper {
 
         & .radio-image {
             background-image: url(../../assets/icons/radio-checked.svg);
+            background-repeat: no-repeat;
+
         }
         
         
