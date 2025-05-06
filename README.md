@@ -25,10 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O Formulário de Matrícula é uma aplicação web que simula o preenchimento de dados para a inscrição de um aluno. O projeto foi criado com foco no uso de inputs HTML e organização visual com CSS.
 
-- Acesse o projeto online (https://kaiqueccmartins.github.io/Formulario-de-matricula/)
+-[Acesse o projeto online](https://kaiqueccmartins.github.io/Formulario-de-matricula/)
 
 ## 🔖 Layout
 O layout foi criado pelo time de design da Rocketseat para a formação Full-stack. Para visualizar o layout do projeto no Figma é necessário ser aluno e estar logado na conta.
 
 Feito com ♥ por Kaique Martins durante a formação da Rocketseat 🚀
-Confira meu GitHub(https://github.com/kaiqueccmartins)
+[Confira meu GitHub](https://github.com/kaiqueccmartins)
